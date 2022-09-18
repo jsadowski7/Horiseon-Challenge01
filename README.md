@@ -1,3 +1,11 @@
+# Horiseon: Search Engine Optimization
+
+```
+# Description
+
+```
+For this Challenge, a marketing agency, Horiseon, tasked me with refactoring existing code for a website. This included using semantic html and css elements to reorganize the code to make it more accessible and easier to read for other developers. In addition, some issues in the html were fixed as well.
+
 ## User Story
 
 ```
@@ -21,3 +29,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
+## Mock-Up
+
+```
+![img](./assets/images/Screenshot%20(1).png)
+
