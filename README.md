@@ -38,3 +38,10 @@ THEN I find a concise, descriptive title
 ```
 ![img](./assets/images/Screenshot%20(1).png)
 
+```
+
+## Link to Website
+
+```
+https://jsadowski7.github.io/Horiseon-Challenge01/#social-media-marketing
+
